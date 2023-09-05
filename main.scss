@@ -4,4 +4,8 @@
 .main-outer-nav{
     height: 50px;
     background-color: var(--light-color);
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    border: 1px solid red;
 }
